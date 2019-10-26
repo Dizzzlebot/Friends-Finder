@@ -20,7 +20,7 @@ var friends = [
     },
 
     {
-        "name": "Khalid",
+        "name": "Zack",
         "photo": "https://blogs.forbes.com/zackomalleygreenburg/files/2017/06/0606_celeb-the-weekend-4_1200x675-1200x675.jpg",
         "scores": [
             4,
