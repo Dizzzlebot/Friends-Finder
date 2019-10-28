@@ -1,9 +1,10 @@
 body {
-    background-image: url("../image/dope.jpg");
+    background-image: url("/image/dope.jpg");
+    image-rendering: auto;
 }
 
 .container {
-    color: white;
+    color: blue;
 
 }
 
