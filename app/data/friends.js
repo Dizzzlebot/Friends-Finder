@@ -51,7 +51,58 @@ var friends = [
             4,
             1
         ]
+    },
+    {
+        "name": "Jennifer",
+        "photo": "https://www.guinnessworldrecords.com/Images/jennifer-aniston_tcm25-595487.jpg",
+        "scores": [
+            2,
+            5,
+            4,
+            3,
+            1,
+            4,
+            2,
+            5,
+            3,
+            1
+        ]
+    },
+
+    {
+        "name": "Denzel",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMjE5NDU2Mzc3MV5BMl5BanBnXkFtZTcwNjAwNTE5OQ@@._V1_.jpg",
+        "scores": [
+            4,
+            4,
+            4,
+            5,
+            2,
+            4,
+            2,
+            2,
+            4,
+            1
+        ]
+    },
+
+    {
+        "name": "Sandra",
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP99s0uqtHTurgTaJTNsGHElW73ykgI4HP7czLIL1mTGxClBdY&s",
+        "scores": [
+            4,
+            5,
+            2,
+            3,
+            2,
+            3,
+            5,
+            1,
+            4,
+            1
+        ]
     }
+
 ];
 
 module.exports = friends;
